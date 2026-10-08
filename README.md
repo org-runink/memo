@@ -1,3 +1,6 @@
+> **Moved.** This module now lives at **[github.com/org-runink/stdx](https://github.com/org-runink/stdx)**.
+> The code is unchanged; only the import path differs. This repository is archived.
+
 # memo
 
 In-process memoization for Go with **single-flight coalescing**, TTL expiry and
